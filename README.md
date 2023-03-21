@@ -1,3 +1,3 @@
 # WordWrap
 cd into folder...
-doenet run
+dotnet run
