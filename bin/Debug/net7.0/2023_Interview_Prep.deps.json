@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "2023_Interview_Prep/1.0.0": {
+        "runtime": {
+          "2023_Interview_Prep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2023_Interview_Prep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

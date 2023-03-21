@@ -1,0 +1,15 @@
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Olo.csproj.AssemblyReference.cache
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Olo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Olo.AssemblyInfoInputs.cache
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Olo.AssemblyInfo.cs
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Olo.csproj.CoreCompileInputs.cache
+C:\Users\Ava\Git\Olo\bin\Debug\net7.0\Olo.exe
+C:\Users\Ava\Git\Olo\bin\Debug\net7.0\Olo.deps.json
+C:\Users\Ava\Git\Olo\bin\Debug\net7.0\Olo.runtimeconfig.json
+C:\Users\Ava\Git\Olo\bin\Debug\net7.0\Olo.dll
+C:\Users\Ava\Git\Olo\bin\Debug\net7.0\Olo.pdb
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Olo.dll
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\refint\Olo.dll
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Olo.pdb
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Olo.genruntimeconfig.cache
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\ref\Olo.dll

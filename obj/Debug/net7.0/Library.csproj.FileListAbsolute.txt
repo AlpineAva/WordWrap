@@ -1,0 +1,15 @@
+C:\Users\Ava\Git\Olo\bin\Debug\net7.0\Library.exe
+C:\Users\Ava\Git\Olo\bin\Debug\net7.0\Library.deps.json
+C:\Users\Ava\Git\Olo\bin\Debug\net7.0\Library.runtimeconfig.json
+C:\Users\Ava\Git\Olo\bin\Debug\net7.0\Library.dll
+C:\Users\Ava\Git\Olo\bin\Debug\net7.0\Library.pdb
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Library.csproj.AssemblyReference.cache
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Library.AssemblyInfo.cs
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Library.dll
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\refint\Library.dll
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Library.pdb
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\Library.genruntimeconfig.cache
+C:\Users\Ava\Git\Olo\obj\Debug\net7.0\ref\Library.dll
